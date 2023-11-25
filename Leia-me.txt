@@ -1,0 +1,2 @@
+Percebemos que utilizar o parâmetro, "as_index==False", retorna um erro no VsCode, porém, não utilizar esse parâmetro retorna um erro no Jupyter. Acreditamos que seja por conta de versões diferentes do Seaborn e do Kernel utilizado.
+Por isso, fizemos duas versões do trabalho, em caso de erro na versão principal, execute a versão da pasta (Em caso de erro).
